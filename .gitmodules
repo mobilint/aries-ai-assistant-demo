@@ -1,0 +1,3 @@
+[submodule "backend/bilingual_melo_tts/MeloTTS"]
+	path = backend/bilingual_melo_tts/MeloTTS
+	url = http://git.mobilint.com/algorithm-team/application/melo_tts.git

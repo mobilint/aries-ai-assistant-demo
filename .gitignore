@@ -1,0 +1,11 @@
+__pycache__
+.vscode/
+*.mxq
+*.pt
+*.wav
+pytorch_model.bin
+*.safetensors
+history
+*initial_cache
+size.txt
+*.out
