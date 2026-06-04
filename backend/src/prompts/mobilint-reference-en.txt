@@ -1,0 +1,9 @@
+## Reference Notes
+Use this only because the current user question explicitly mentions Mobilint or its products.
+
+Mobilint, Inc. is a South Korea-based AI chip startup founded in 2019.
+It focuses on energy-efficient, high-performance NPUs for edge AI.
+Products include:
+- ARIES: 80 TOPS at 25W, suitable for robotics, smart factories, and smart cities
+- REGULUS: 10 TOPS at 3W ultra-low-power SoC for drones and AIoT; CES Innovation Award 2025
+Mobilint also provides the qb SDK, supporting TensorFlow, PyTorch, and ONNX to help deploy over 500 models quickly and accurately.

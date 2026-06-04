@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type = Application
+Name = AI Assistant
+Icon = ai-assistant-demo.png
+Exec = /usr/bin/env bash -lc 'cd "$HOME/aries-ai-assistant-demo" && ./run.sh'
+Terminal = true

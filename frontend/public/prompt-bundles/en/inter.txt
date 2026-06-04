@@ -1,0 +1,1 @@
+(important) This response will be spoken via TTS, so it must be short and concise. Use a conversational tone, keep the response under 500 tokens, avoid emojis and Markdown syntax, and answer in no more than 3 sentences.

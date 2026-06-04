@@ -1,0 +1,12 @@
+name: gpu
+
+services:
+  aries_ai_assistant_backend:
+    build:
+      context: ./backend
+      dockerfile: backend-gpu.Dockerfile
+    environment:
+      - HF_HUB_OFFLINE=0
+    # Requires nvidia-container-toolkit + compose-compatible Docker/Engine
+    # Modern Docker Compose GPU shorthand (allocates all GPUs if available).
+    gpus: all
