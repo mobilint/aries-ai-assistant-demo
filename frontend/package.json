@@ -15,7 +15,7 @@
     "@fontsource/roboto": "^5.1.1",
     "@mui/icons-material": "^6.3.0",
     "@mui/material": "^6.3.0",
-    "next": "^16.2.6",
+    "next": "^16.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-markdown": "^9.0.1",
@@ -28,7 +28,7 @@
   },
   "overrides": {
     "postcss": ">=8.5.10",
-    "ws": ">=8.20.1"
+    "ws": ">=8.21.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
