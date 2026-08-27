@@ -1,0 +1,8 @@
+__pycache__
+.vscode/
+*.wav
+*.bin
+*.xml
+backend/src/MeloTTS-Korean
+.venv
+uv.lock

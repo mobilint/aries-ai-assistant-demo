@@ -1,0 +1,6 @@
+{
+  "model_id": "LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct",
+  "system_prompt_path": "src/prompts/kr-system.txt",
+  "inter_prompt_path": "src/prompts/kr-inter-prompt.txt",
+  "generation_config_path": "src/generation_configs/EXAONE-3.5-2.4B-Instruct"
+}
